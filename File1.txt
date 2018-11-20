@@ -2,7 +2,7 @@ class HelloWorld{
 
 public static void mai(){
 
-sysout("Hello World...Welecom to Git");
+system.out.println("Hello World...Welecom to Git");
 
 }
 
