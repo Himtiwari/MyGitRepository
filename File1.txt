@@ -1,6 +1,6 @@
-class helloworld{
+class HelloWorld{
 
-psvm(){
+public static void mai(){
 
 sysout("Hello World...Welecom to Git");
 
