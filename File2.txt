@@ -1,3 +1,5 @@
 This is file2.txt
 
 change1
+
+change2
